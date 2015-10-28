@@ -55,7 +55,7 @@ GAMEPLAY :
 
 1.	Experience Point (XP)
 Di setiap awal semester, mahasiswa memiliki XP = 0. XP akan bertambah jika mahasiswa melakukan presentasi, melaksanakan
-quiz dan ujian, membuat project, aktif di organisasi (UKM), dan berprestasi pada bidang yang dia sukai.
+quiz dan ujian, membuat project, aktif di organisasi (UKM), dan berprestasi pada bidang yang dia sukai. XP ini nantinya akan di input oleh bidangnya masing-masing, misalnya jika XP didapatkan dari sebuah UKM, maka XP tersebut akan di input oleh DPM.
 XP ini nantinya bisa di gunakan untuk level up, dan semakin tinggi level semakin banyak XP yang dibutuhkan untuk
 level up. Setiap mata kuliah memiliki level requirement untuk di ambil. Jadi kita sudah tidak menerapkan sistem nilai,
 karena sistem nilai dianggap tidak efektif.
