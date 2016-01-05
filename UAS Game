@@ -2,56 +2,47 @@
   1. Overview
   2. Filosofi
   3. Common Question
-     A. Apa itu Gampar?
-     B. Kenapa Harus Gampar?
-     C. Untuk Siapa Gampar diperuntukkan?
-     D. Apa Tujuan dari Gampar?
-     E. Darimana Kata "Gampar" Berasal?
+     A. Apa itu GAMPAR?
+        GAMPAR adalah singkatan dari Gamification Paramadina, sebuah metode pembelajaran yang berlandaskan kesenangan. 
+        Dimana siswa/i akan merasa semangat dan antusias untuk mengikuti kegiatan belajar mengajar (KBM). Untuk mewujudkan
+        pembelajaran yang efektif diperlukan perbaruan dan perbaikan terhadap sistem mengajar yang ada saat ini. Oleh karena itu,
+        kami mengusulkan untuk melakukan Gamification pada Kegiatan Belajar Mengajar di Universitas Paramadina. 
+        Gamification adalah penggunaan element-element pada game yang dilakukan pada context non-game. Metode ini dapat
+        merangsang otak dan keinginan kita untuk memecahkan masalah atau tantangan dalam suatu pembelajaran. Inti dari gamification adalah
+        sistem partisipasi dan reward, yang terus memberi tantangan pada peserta dengan poin, badges, atau level permainan.
+
+     B. Kenapa harus GAMPAR?
+        Gamification Paramadina merupakan metode pembelajaran baru, dimana metode ini bertujuan agar mahasiswa bisa belajar dengan fun dan
+        tidak ada keterpaksaan dalam mengerjakan tugas maupun masuk ke dalam kelas.
+        Universitas Paramadina merupakan Perguruan Tinggi yang mengajarkan mahasiswanya untuk belajar tidak hanya mementingkan
+        akademik, tetapi juga non akademik. Pada penerapan pembelajaran di kelas, banyak mahasiswa Paramadina yang masih belum 
+        nyaman dengan metode pembelajaran yang dosen berikan. Ini terbukti dari masih banyaknya mahasiswa yang tidak masuk 
+        kelas, bosan berada di dalam kelas, dan tidak lulus dengan tepat waktu. Mahasiswa mengatakan mereka bosan berada 
+        dikelas dikarenakan dosen yang mengajar terlalu kaku atau terlalu cuek (tidak memberikan perhatian), dan kurangnya 
+        interaksi terhadap mahasiswa, sehingga mengakibatkan mahasiswa tidak menangkap apa yang telah diajarkan.
+        Dengan adanya GAMPAR ini, mahasiswa dapat belajar dengan cara yang berbeda, mahasiswa butuh pembelajaran 
+        yang bersifat “fun” agar mereka mau aktif didalam kelas. fun disini berarti “sesuatu yang asik”, dengan sistem pembelajaran 
+        ini mahasiswa bisa lebih mengikuti pelajaran yang lebih menyenangkan karena banyak mahasiswa mengatakan 
+        mereka ingin kelas lebih seperti permainan , sehingga mengetahui bagian-bagian dari game yang dapat dimasukkan 
+        kedalam pembelajaran membantu untuk mengubah struktur pengetahuan kita. Selain belajar harus terasa menyenangkan, 
+        sistem pembelajaran yang baik juga harus mendorong mahasiswa untuk berkompetisi dengan mahasiswa lainnya, 
+        lebih aktif di dalam kelas dan berprestasi, serta membuat mahasiswa-mahasiswa menjadi ingin mencari 
+        tahu dan mengeksplorasi lagi pelajarannya sampai mengerti. 
+   
+     C. Untuk Siapa GAMPAR diperuntukkan?
+        Gamification ini di peruntukan untuk seluruh civitas akademika Universitas Paramadina, yaitu dosen, mahasiswa/i serta para staff.
+  
+     D. Apa Tujuan GAMPAR?
+        Tujuan GAMPAR adalah untuk memperbaiki sistem pembelajar yang ada di Universitas Paramadina, sehingga mahasiswa dapat semangat belajar
+        aktif dalam kegiatan non-akademik, dan juga dapat mengembangkan bakat mahasiswa.
+   
+     E. Darimana Asal dari kata "GAMPAR"?
+        GAMPAR singkatan dari Gamification Paramadina, yang Gamification itu sendiri berasal dari kata Gamifikasi, sehingga GAMPAR adalah nama 
+        Gamifikasi di Universitas Paramadina
+
   4. User Interface/User Experience (UI/UX)
   5. Feature
      A. XP (Experience Point)
      B. Badge
      C. Paramadina Biggest Competition
   6. Alur (Flow) Gampar
-      
-
-
-
-Common Question
-A. Apa itu GAMPAR?
-   GAMPAR adalah singkatan dari Gamification Paramadina, sebuah metode pembelajaran yang berlandaskan kesenangan. 
-   Dimana siswa/i akan merasa semangat dan antusias untuk mengikuti kegiatan belajar mengajar (KBM). Untuk mewujudkan
-   pembelajaran yang efektif diperlukan perbaruan dan perbaikan terhadap sistem mengajar yang ada saat ini. Oleh karena itu,
-   kami mengusulkan untuk melakukan Gamification pada Kegiatan Belajar Mengajar di Universitas Paramadina. 
-   Gamification adalah penggunaan element-element pada game yang dilakukan pada context non-game. Metode ini dapat
-   merangsang otak dan keinginan kita untuk memecahkan masalah atau tantangan dalam suatu pembelajaran. Inti dari gamification adalah
-   sistem partisipasi dan reward, yang terus memberi tantangan pada peserta dengan poin, badges, atau level permainan.
-
-B. Kenapa harus GAMPAR?
-   Gamification Paramadina merupakan metode pembelajaran baru, dimana metode ini bertujuan agar mahasiswa bisa belajar dengan fun dan
-   tidak ada keterpaksaan dalam mengerjakan tugas maupun masuk ke dalam kelas.
-   Universitas Paramadina merupakan Perguruan Tinggi yang mengajarkan mahasiswanya untuk belajar tidak hanya mementingkan
-   akademik, tetapi juga non akademik. Pada penerapan pembelajaran di kelas, banyak mahasiswa Paramadina yang masih belum 
-   nyaman dengan metode pembelajaran yang dosen berikan. Ini terbukti dari masih banyaknya mahasiswa yang tidak masuk 
-   kelas, bosan berada di dalam kelas, dan tidak lulus dengan tepat waktu. Mahasiswa mengatakan mereka bosan berada 
-   dikelas dikarenakan dosen yang mengajar terlalu kaku atau terlalu cuek (tidak memberikan perhatian), dan kurangnya 
-   interaksi terhadap mahasiswa, sehingga mengakibatkan mahasiswa tidak menangkap apa yang telah diajarkan.
-   Dengan adanya GAMPAR ini, mahasiswa dapat belajar dengan cara yang berbeda, mahasiswa butuh pembelajaran 
-   yang bersifat “fun” agar mereka mau aktif didalam kelas. fun disini berarti “sesuatu yang asik”, dengan sistem pembelajaran 
-   ini mahasiswa bisa lebih mengikuti pelajaran yang lebih menyenangkan karena banyak mahasiswa mengatakan 
-   mereka ingin kelas lebih seperti permainan , sehingga mengetahui bagian-bagian dari game yang dapat dimasukkan 
-   kedalam pembelajaran membantu untuk mengubah struktur pengetahuan kita. Selain belajar harus terasa menyenangkan, 
-   sistem pembelajaran yang baik juga harus mendorong mahasiswa untuk berkompetisi dengan mahasiswa lainnya, 
-   lebih aktif di dalam kelas dan berprestasi, serta membuat mahasiswa-mahasiswa menjadi ingin mencari 
-   tahu dan mengeksplorasi lagi pelajarannya sampai mengerti. 
-   
-C. Untuk Siapa GAMPAR diperuntukkan?
-   Gamification ini di peruntukan untuk seluruh civitas akademika Universitas Paramadina, yaitu dosen, mahasiswa/i serta para staff.
-  
-D. Apa Tujuan GAMPAR?
-   Tujuan GAMPAR adalah untuk memperbaiki sistem pembelajar yang ada di Universitas Paramadina, sehingga mahasiswa dapat semangat belajar
-   aktif dalam kegiatan non-akademik, dan juga dapat mengembangkan bakat mahasiswa.
-   
-E. Darimana Asal dari kata "GAMPAR"?
-   GAMPAR singkatan dari Gamification Paramadina, yang Gamification itu sendiri berasal dari kata Gamifikasi, sehingga GAMPAR adalah nama 
-   Gamifikasi di Universitas Paramadina
