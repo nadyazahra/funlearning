@@ -1,15 +1,47 @@
                                                      GAMPAR DOCUMENTATION
   1. Overview
+     Sampai detik ini, pendidikan di Indonesia masih dikatakan kurang baik. Banyak hal yang membuat mutu pendidikan di Indonesia belum      baik, mulai dari kurikulum pendidikan yang setiap tahun berubah-ubah, standard nilai yang setiap tahun semakin tinggi namun tidak      didukung dengan fasilitas pendidikan yang mumpuni, banyaknya mata pelajaran yang harus ditempuh oleh pelajar, dan sebagainya.
+     Hal ini memberikan dampak buruk bagi pelaku pendidikan itu sendiri, yaitu pelajar dan mahasiswa. Kita bisa lihat bahwa di Negeri      ini sangat banyak pelajar maupun mahasiswa yang sekolah hanya sebagai formalitas, menanggalkan kewajiban yaitu belajar. Sehingga      banyak kita temui pelajar atau mahasiswa yang mencontek saat ujian berlangsung, tujuannya sudah berbeda, bukannya untuk memahami      dan menguasai mata pelajaran melainkan demi dapat lulus dengan nilai yang baik. Hasilnya, banyak anak-anak Indonesia yang      
+     memiliki attitude buruk dan tidak cerdas.
+     
+     Namun kita tidak dapat menyalahkan pelajar maupun mahasiswa. Jelas ada kesalahan dalam metode pendidikan di Indonesia, sehingga       para pengemban ilmu di Negeri ini banyak yang malas-malasan dalam belajar bahkan stress karena tuntunan nilai yang tinggi. 
+     Untuk itu, muncullah "Gampar" (Gamification in Paramadina) yaitu sebuah metode pembelajaran yang berlandaskan kesenangan, agar 
+     pelajar dan mahasiswa bisa semangat belajar dan bisa menggali bakat serta mengembangkan kemampuan yang mereka miliki.
+     
+     
   2. Filosofi
+     Konsep Gampar muncul diilhami dari seorang Professor di Indiana University yang mengimplementasikan sebuah metode "gamification"      dalam kegiatan belajar mengajarnya di kelas. Lee Sheldon  merupakan pioneer dalam gamification in education. 
+     Menurutnya, game mengikat pemainnya secara emotional dan cognitively sehingga pemain termotivasi untuk terus bermain. Suasana         yang complex pada game membuat pemainnya bisa bermain sambil ber-eksperimen sekaligus problem solving dan juga quick 
+     thinking. Dalam game, peraturannya jelas, tugas (apa yang harus dikerjakan) jelas, ada imbalan (rewards) yang bisa 
+     langsung didapatkan. Bahkan jika kita kalah atau gagal dalam bermain game, player akan termotivasi untuk bermain 
+     terus karna paling tidak player sadar bahwa skill nya akan terus meningkat. Selain itu, game juga memberikan 
+     kesempatan para pemainnya melakoni sebuah peran yang bukan dirinya. 
+     
   3. Common Question
      A. Apa itu Gampar?
      B. Kenapa Harus Gampar?
      C. Untuk Siapa Gampar diperuntukkan?
      D. Apa Tujuan dari Gampar?
      E. Darimana Kata "Gampar" Berasal?
+     
   4. User Interface/User Experience (UI/UX)
+
   5. Feature
      A. XP (Experience Point)
+        > SKS
+          Maks SKS = 200 SKS
+          Min SKS = 144 SKS
+          Predikat Lulus (per 1 SKS)
+           : A => 801 xp - 1000 xp
+           : B => 601 xp - 800 xp
+           : C => 401 xp - 600 xp
+           : D => 201 xp - 400 xp
+           : E => 0 xp - 200 xp
+           
+           Jadi, untuk bisa lulus Universitas Paramadina diperlukan :
+            -Min 57.744 XP dengan predikat C (sks 144)
+            -Maks 200.000 XP dengan predikat A (sks 200)
+         
      B. Badge
      C. Paramadina Biggest Competition
   6. Alur (Flow) Gampar
