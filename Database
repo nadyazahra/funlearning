@@ -1,0 +1,14 @@
+drop database gampar;
+CREATE database gampar;
+use gampar;
+
+CREATE TABLE fakultas 
+(
+	id 					int auto_increment PRIMARY key,
+	NIM 				CHAR(9) not null unique,
+	nama_mahasiswa		VARCHAR(50) not null,
+	xp_akademik			CHAR(6) not null,
+	xp_nonakademik		CHAR(6) not null,
+	updated_by			VARCHAR(15) not null,
+	updated_at			datetime not null
+);
