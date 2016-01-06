@@ -100,10 +100,10 @@
               dan Tahun Akademik yang diikuti), Kode Mata Kuliah, Mata Kuliah, SKS dan Kelas yang diikuti. KRS merupakan bukti
               seorang mahasiswa aktif pada semester yang bersangkutan. Pengisian KRS dilakukan oleh setiap mahasiswa sebelum semester yang baru berlangsung.
 
-     - SKS < 400 :jika jumlah XP yang didapat pada setiap sks yang diambil pada suatu matakuliah kurang dari 400 maka 
-                  mahasiswa itu harus mengulang matakuliah tersebut. (ex. matakuliah AP3 = 3 SKS berarti minimal XP yang harus
-                  didapat 3 * 400 = 1200 XP jika mahasiswa a mendapatkan kurang dari 1200 XP pada matakuliah AP3 maka a harus
-                  mengulang jika lebih dari batas minimal yaitu 1200XP berarti dia lulus dari matakuliah tersebut)
+      - SKS < 400 : jika jumlah XP yang didapat pada setiap sks yang diambil pada suatu matakuliah kurang dari 400 maka 
+                    mahasiswa itu harus mengulang matakuliah tersebut. (ex. matakuliah AP3 = 3 SKS berarti minimal XP yang harus
+                    didapat 3 * 400 = 1200 XP jika mahasiswa a mendapatkan kurang dari 1200 XP pada matakuliah AP3 maka a harus
+                    mengulang jika lebih dari batas minimal yaitu 1200XP berarti dia lulus dari matakuliah tersebut)
 
       - total = total * sks : total xp yang didapat per matakuliah yaitu jumlah xp yang didapat di kali sks per matakuliah.
 
@@ -111,3 +111,37 @@
                                 minimal 57.744 XP jika belum mencapai jumlah itu mahasiswa harus mengulang matakuliah yang
                                 masih belum lulus atau mengambil matakuliah umum yang lain. jika sudah memenuhi mahasiswa 
                                 sudah dapat mengikuti sidang skripsi dan dinyatakan lulus dengan memenuhi ketentuan penilaian dari non akademik.
+      
+      - non akademik : aktivitas non akademik dibagi lagi menjadi tiga kategori yaitu, Okup/Hima, Paramadina Biggest Competition 
+                      dan lomba individu/kelompok. aktivitas non-akademik yang di lakukan oleh mahasiswa akan mendapatkan sejumlah 
+                      XP sesuai ketentuan walaupun jumlah XP yang didapat dari kegiatan non akademik lebih rendah dibanding dari akademik.
+
+      - OKUP/HIMA : adalah organisasi kegiatan mahasiswa dimana akan dinilai kinerja, keaktifan kepengurusannya dengan XP. 
+                    ada juga seminar atau kuliah umum yang dapat diikuti mahasiswa yang juga akan dihargai dengan XP.
+
+      - Paramadina Biggest Competition : adalah kompetisi yang di adakan sesuai dengan ketentuan yang sudah dibuat dimana 
+                                         para mahasiswa akan dikelompok kan sesuai pendapatan XP mereka untuk memenangkan lomba 
+                                         dan kelompok mahasiswa yang menang akan mendapatkan XP tammbahan dan juga badges sebagai penghargaan.
+
+      - Lomba : lomba disini berbeda dengan paramadin biggest competition, disini maksudnya adalah mahasiswa yang memenangkan
+                lomba di luar di tingkat apapun akan diberikan penghargaan, dengan memberi bukti berupa sertifikat atau 
+                sejenisnya yang menyatakan telah mengikuti loba tertentu mahasiswa tersebut akan diberi xp tambahan, apalagi 
+                jika mendapatkan gelar juara XP yang di dapat akan lebih banyak.
+
+      - XP : XP merupakan score yang resmi di gunakan pada sistem pembelajaran ini, setiap mahasiswa akan mendapatkan nilai
+            bukan lagi angka seperti, 7,8,9 tetapi dengan XP. jika mengumpulkan banyak XP dalam jangka waktu terntentu atau
+            pada event-event tertentu sesuai ketentuan maka akan mendapatkan penghargaan badges.
+
+      - Badges :  badges adalah penghargaan yang diberikan untuk mahasiswa untuk sebuah pencapaian untuk menandakan achievement
+                  yang sudah di peroleh.
+
+      - XP < 2000 XP :  batas minimal xp harus didapat oleh setiap mahasiswa untuk kategori non-akademik adalah 2000 XP. 
+                        jika xp non akademik seorang mahasiswa belum mencapai 2000 XP maka mahasiswa tersebut harus lebih 
+                        aktif mengikuti beberapa kegiatan lagi agar dapat mengikuti sidang skripsi. jika sudah maka akan 
+                        dinyatakan lulus jika total sks yang didapat dari aktivitas akademik sudah mencukupi juga.
+
+  jika total XP dari kegiatan akademik mencapai 57.744 XP atau lebih dan total XP non akademik mencapai 2000 XP atau lebih maka mahasiswa tersebut dapat mengikuti sidang skripsi dan lulus.
+
+      - lulus : mahasiswa yang sudah lulus dan memiliki badges akan diumumkan pada saat wisuda sebagai penghargaan yang membanggakan.
+      
+flow chart gampar => https://drive.google.com/file/d/0BzqMOD82JhA0RzVGWjdkcktrVkE/view?pref=2&pli=1
