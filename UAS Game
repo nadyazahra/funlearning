@@ -77,3 +77,37 @@
      B. Badge
      C. Paramadina Biggest Competition
   6. Alur (Flow) Gampar
+    
+      - Mahasiswa : Mahasiswa adalah pemeran utama pada sistem pembelajaran ini dan kepuasan dan ke antusiasan meraka untuk 
+                    belajar merupakan tujuan dalam pembuatan sistem ini. disini peran mahasiswa seperti mahasiswa pada umumnya
+                    yaitu belajar dengan mengambil sistem sks pada setiap semesternya untuk mendapatkan ilmu dan pada akhirnya
+                    untuk lulus.
+
+      - kuliah :  mahasiswa yang telah terdaftar di universitas tersebut sudah pasti untuk menjalani kuliah dengan mengambil 
+                  paket sks yang disediakan dan atau memilih sendiri secara individual matakuliah yang dibutuhkan.
+                  saat kuliah seperti pada umumnya, selain harus lulus dari sejumlah sks yang sudah ditentukan, mahasiswa 
+                  dituntut aktif untuk mendapatkan nilai dan poin agar dapat melaksanakan sidang skripsi. penilaian yang 
+                  berbeda seperti itu terkadang dinilai menghabat oleh mahasiswa oleh karena itu, penilaian yang dilakukan di 
+                  kegiatan perkuliahan berasal dari dua sumber yaitu, akademik dan non akademik sama-sama dinilai dengan Experience Point (XP).
+
+      - akademik :  penilaian yang diambil dari mata kuliah dengan sistem sks dimana pada setiap 1 sks dinilai 400XP minimal 
+                    dan 1000XP maksimal, ketentuan untuk mendapatkan sekian persen XP didapat darimana ditentukan oleh dosen
+                    yang mengajar. setiap mahasiswa yang ingin mengambil matakuliah harus mengisi KRS terlebih dahulu untuk 
+                    memilih matakuliah yang akan diambil yang dilakukan sebelum semester tersebut berlangsung.
+
+      - KRS : Kartu Rencana Studi (KRS) adalah kartu yang berisi daftar mata kuliah yang akan diikuti oleh setiap mahasiswa
+              dalam satu semester. Dalam KRS tercantum data mahasiswa (NPM, Nama, Kelas, Fakultas, Jurusan, Jumlah Semester 
+              dan Tahun Akademik yang diikuti), Kode Mata Kuliah, Mata Kuliah, SKS dan Kelas yang diikuti. KRS merupakan bukti
+              seorang mahasiswa aktif pada semester yang bersangkutan. Pengisian KRS dilakukan oleh setiap mahasiswa sebelum semester yang baru berlangsung.
+
+     - SKS < 400 :jika jumlah XP yang didapat pada setiap sks yang diambil pada suatu matakuliah kurang dari 400 maka 
+                  mahasiswa itu harus mengulang matakuliah tersebut. (ex. matakuliah AP3 = 3 SKS berarti minimal XP yang harus
+                  didapat 3 * 400 = 1200 XP jika mahasiswa a mendapatkan kurang dari 1200 XP pada matakuliah AP3 maka a harus
+                  mengulang jika lebih dari batas minimal yaitu 1200XP berarti dia lulus dari matakuliah tersebut)
+
+      - total = total * sks : total xp yang didapat per matakuliah yaitu jumlah xp yang didapat di kali sks per matakuliah.
+
+      - total sks < 57.744 XP : jika sudah mengambil 144sks (minimal sks untuk lulus) maka jumlah XP yang sudah didapat 
+                                minimal 57.744 XP jika belum mencapai jumlah itu mahasiswa harus mengulang matakuliah yang
+                                masih belum lulus atau mengambil matakuliah umum yang lain. jika sudah memenuhi mahasiswa 
+                                sudah dapat mengikuti sidang skripsi dan dinyatakan lulus dengan memenuhi ketentuan penilaian dari non akademik.
