@@ -2,14 +2,50 @@ drop database gampar;
 CREATE database gampar;
 use gampar;
 
-CREATE TABLE mahasiswa
+CREATE TABLE fakultas
 (
-	id 					int auto_increment PRIMARY key,
-	NIM 				CHAR(9) not null unique,
-	nama_mahasiswa		VARCHAR(50) not null,
-	xp_akademik			CHAR(6) not null,
-	xp_nonakademik		CHAR(6) not null,
-	updated_by			VARCHAR(15) not null,
-	updated_at			datetime not null
+	id 			int auto_increment PRIMARY key,
+	kode 			CHAR(10) not null unique,
+	nama_fakultas		VARCHAR(50) not null,
+	dekan			VARCHAR(50) not null,
+	updated_by		VARCHAR(15) not null,
+	updated_at		datetime not null,
 );
 
+CREATE TABLE prodi
+(
+	id 				int auto_increment PRIMARY key,
+	kode 				CHAR(10) not null unique,
+	nama_prodi			VARCHAR(50) not null,
+	kaprodi				VARCHAR(50) not null,
+	id_fakultas			int not null,
+	updated_by			VARCHAR(15) not null,
+	updated_at			datetime not null,
+	constraint prodifakultas foreign key id_fakultas references fakultas(id)
+);
+
+CREATE TABLE mahasiswa 
+(
+	id 			int auto_increment PRIMARY key,
+	NIM 			CHAR(9) not null unique,
+	nama_mahasiswa		VARCHAR(50) not null,
+	password		VARCHAR(255) not null,
+	idprodi			int not null,
+	idfakultas		int not null,
+	xp_akademik		CHAR(6) not null,
+	xp_nonakademik		CHAR(6) not null,
+	updated_by		VARCHAR(15) not null,
+	updated_at		datetime not null,
+	constraint mahassiwaprodi foreign key idprodi references prodi(id),
+	constraint mahassiwafakultas foreign key idfakultas references fakultas(id)
+);
+
+CREATE TABLE admin
+{
+	id 				int auto_increment PRIMARY key,
+	kode_admin			CHAR(10) not null unique,
+	nama_admin			VARCHAR(10) not null, 
+	password 			VARCHAR(255) not null,
+	updated_by			VARCHAR(15) not null,
+	updated_at			datetime not null
+}
