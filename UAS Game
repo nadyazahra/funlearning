@@ -88,6 +88,13 @@
             -Maks 200.000 XP dengan predikat A (sks 200)
             
      B. Badge
+        Western Oklahoma State College menerapkan bentuk gamification dalam kelas teknologi mereka. Dimana untuk setiap 
+        tugas yang diselesaikan, siswa diberi penghargaan berupa badges. Pada sistem kita, badges yang diberikan adalah
+        badges virtual yang menandakan achievement yang sudah kita peroleh. Achievement bisa di dapat dengan menyelesaikan
+        challenge yang sudah di sediakan dari awal kuliah. Agar badge yang kita miliki bisa dibanggakan, challenge yang
+        ditawarkan juga tidak mudah. Misalkan menyelesaikan ujian dengan sempurna dalam 3 menit, atau memenangkan kejuaraan
+        karate 5x berturut-turut.
+     
         Badge name: Ini adalah macam macam nama Badge sementara, yang nantinya akan diperluas lagi setelah system GAMPAR mencapai status implementasi
                     •	0 Day absent in a semester(50XP), berhasil mempunyai 0 absen dalam satu semester.
                     •	Cum Laude(500XP), Berhasil mencapai nilai terbaik & banyak pujian.
