@@ -2,13 +2,44 @@ drop database gampar;
 CREATE database gampar;
 use gampar;
 
-CREATE TABLE fakultas 
-(
-	id 					int auto_increment PRIMARY key,
-	NIM 				CHAR(9) not null unique,
-	nama_mahasiswa		VARCHAR(50) not null,
-	xp_akademik			CHAR(6) not null,
-	xp_nonakademik		CHAR(6) not null,
+create table fakultas
+{
+	id 				int auto_increment primary key,
+	kode_fakultas 			CHAR(10) not null unique,
+	nama_fakultas 			varchar(50),
+	dekan				varchar(50),
 	updated_by			VARCHAR(15) not null,
 	updated_at			datetime not null
+}
+
+create table prodi
+{
+	id 				int auto_increment primary key,
+	kode_prodi 			CHAR(10) not null unique,
+	nama_prodi 			varchar(50),
+	kaprodi				varchar(50),
+	id_fakultas			int not null,
+	updated_by			VARCHAR(15) not null,
+	updated_at			datetime not null,
+	constraint id_fakultas foreign key id_fakultas references fakultas(id)
+}
+
+CREATE TABLE mahasiswa
+(
+	id 				int auto_increment PRIMARY key,
+	NIM 				CHAR(9) not null unique,
+	nama_mahasiswa			VARCHAR(50) not null,
+	idprodi				int not null,
+	idfakultas			int not null, 
+	xp_akademik			CHAR(6) not null,
+	xp_nonakademik			CHAR(6) not null,
+	updated_by			VARCHAR(15) not null,
+	updated_at			datetime not null,
+	constraint mahasiswaprodi foreign key (idprodi) references prodi(id),
+	constraint mahasiswafakultas foreign key (idfakultas) references fakultas(id)
 );
+
+Create table matakuliah
+{
+
+}
